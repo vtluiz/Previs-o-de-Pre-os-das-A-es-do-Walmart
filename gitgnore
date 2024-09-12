@@ -1,0 +1,16 @@
+# Ignorar arquivos de compilação Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignorar arquivos de dados
+*.csv
+*.xlsx
+
+# Ignorar arquivos temporários
+*.log
+*.tmp
+
+# Ignorar diretórios de ambientes virtuais
+venv/
+env/
